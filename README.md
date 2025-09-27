@@ -24,7 +24,7 @@ Building Recipe page Web Page using HTML & CSS .
 ### Links
 
 - Solution URL: [Github](https://github.com/Amoru-Bek/Recipe-page)
-- Live Site URL: [Live Site]([https://your-live-site-url.com](https://amoru-bek.github.io/Recipe-page/))
+- Live Site URL: [Live Site](https://amoru-bek.github.io/Recipe-page)
 
 ## My process
 
