@@ -15,7 +15,7 @@ This is a solution to the Frontend Mentor Recipe page challenge .
 - [Acknowledgments](#acknowledgments)
 
 ## Overview
-Recipe page project using HTML & CSS .
+Building Recipe page Web Page using HTML & CSS .
 
 ### Screenshot
 
